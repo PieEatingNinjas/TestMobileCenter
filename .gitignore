@@ -3,3 +3,11 @@
 ################################################################################
 
 /App88/App88/App88/bin
+/App88/App88/App88/obj
+/App88/App88/App88.iOS/obj/iPhone
+/App88/App88/App88.WinPhone/obj
+/App88/packages
+/App88/App88/App88.Droid/bin
+/App88/App88/App88.Droid/obj
+/App88/App88/App88.UWP/obj/x86
+/App88/App88/App88.Windows/obj
