@@ -29,7 +29,7 @@ namespace App88
             if (Crashes.HasCrashedInLastSession)
             {
                 btnError.IsEnabled = true;
-                lblCrash.Text = Crashes.HasCrashedInLastSession ? "App did crash previously" : "everything OK";
+                lblCrash.Text = Crashes.HasCrashedInLastSession ? "App did crash previously!!" : "everything OK!!";
             }
         }
 
